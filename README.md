@@ -14,6 +14,8 @@
 
 ## 기술 스택
 
-- **Frontend**: HTML, CSS
-- **Backend**: Java,
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Java, JSP
+- **Database**: MySQL
+- **배포**: Apache Tomcat
 
