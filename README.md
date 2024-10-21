@@ -6,16 +6,18 @@
 
 에브리케어는 사회적 변화를 인식하고, 돌봄이 필요한 사람들과 돌봄 서비스를 제공할 수 있는 사람들을 연결하는 데 중점을 두고 있습니다. 이 플랫폼을 통해 돌봄 서비스 제공자와 수요자 간의 매칭을 돕고, 사회적 돌봄 시스템을 강화하는 것이 목표입니다.
 
+## 사용 기술
+<ul>
+  <li>Frontend : HTML, CSS, JavaScript </li>
+  <li>Backend : Java, JSP </li>
+  <li>Database : MySQL </li>
+  <li> 배포 : Apache Tomcat</li>
+</ul>
+
 ## 주요 기능
 
 - 돌봄이 필요한 사람들과 돌봄 제공자를 효율적으로 연결
 - 수요자와 제공자의 요구를 반영한 맞춤형 매칭 서비스
 - 돌봄 서비스의 품질 관리 및 피드백 시스템
 
-## 기술 스택
-
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Java, JSP
-- **Database**: MySQL
-- **배포**: Apache Tomcat
 
